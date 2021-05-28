@@ -1,0 +1,12 @@
+.like-btn {
+  border: none;
+  background: none;
+}
+.like-btn img {
+  width: 5em;
+  height: auto;
+  vertical-align: middle;
+}
+#viewComments {
+  background: #f7f7f7;
+}
